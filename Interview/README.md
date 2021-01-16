@@ -2,7 +2,7 @@
 
 # Coding Challenge
 
-Interview is a java maven project. It takes a json input file and
+Interview is a Java 8 maven project. It takes a json input file and
 outputs flattened key(separated by a "dot")/value pairs.
 
 Main source code: src->main->Program.java
