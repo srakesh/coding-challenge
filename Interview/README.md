@@ -174,6 +174,7 @@ java -jar ./Interview-0.0.1-SNAPSHOT-jar-with-dependencies.jar <json file>
 ## Development/IDEs
 
 - *Eclipse* - Eclipse IDE for Java Developers. Version: 2019-03 (4.11.0). Build id: 20190314-1200
+- *Java* - Java 8
 
 
 ## Running Tests
